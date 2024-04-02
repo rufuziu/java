@@ -1,0 +1,20 @@
+spring:
+  application:
+    name: avaliadores
+  rabbitmq:
+    host: ${RABBITMQ_SERVER}
+    port: 5672
+    username: guest
+    password: guest
+server:
+  port: 0
+eureka:
+  client:
+    service-url:
+      defaultZone: http://admin:admin@${EUREKA_SERVER}:8761/eureka
+  instance:
+    instance-id: ${spring.application.name}:${spring.application.instance_id:${random.value}}
+# noinspection undefined
+mq:
+  queues:
+    cartoes-emissao: cartoes-emissao

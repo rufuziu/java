@@ -1,0 +1,26 @@
+Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'browsing-topics'.
+Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'interest-cohort'.
+ 
+        
+        
+        GET https://www.torn.com/ 403 (Forbidden)
+hV @ /cdn-cgi/challenge-p…=85ed7895fec75228:1
+(anônimo) @ /cdn-cgi/challenge-p…=85ed7895fec75228:1
+(anônimo) @ /cdn-cgi/challenge-p…=85ed7895fec75228:1
+hO @ /cdn-cgi/challenge-p…=85ed7895fec75228:1
+setTimeout (assíncrono)
+hV @ /cdn-cgi/challenge-p…=85ed7895fec75228:1
+(anônimo) @ /cdn-cgi/challenge-p…=85ed7895fec75228:1
+(anônimo) @ /cdn-cgi/challenge-p…=85ed7895fec75228:1
+hO @ /cdn-cgi/challenge-p…=85ed7895fec75228:1
+hV @ /cdn-cgi/challenge-p…=85ed7895fec75228:1
+(anônimo) @ /cdn-cgi/challenge-p…=85ed7895fec75228:1
+hN @ /cdn-cgi/challenge-p…=85ed7895fec75228:1
+i8 @ /cdn-cgi/challenge-p…=85ed7895fec75228:1
+i.<computed> @ /cdn-cgi/challenge-p…=85ed7895fec75228:1
+favicon.ico:1 
+        
+        
+        GET https://www.torn.com/favicon.ico 403 (Forbidden)
+Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'browsing-topics'.
+Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'interest-cohort'.
